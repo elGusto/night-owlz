@@ -937,9 +937,9 @@
         "unreachable": null,
         "unreachable.background": null,
         "unreachable.border": null,
-        "warning": "#b39554",
-        "warning.background": null,
-        "warning.border": null,
+        "warning": "#FFFFFF",
+        "warning.background": "#ccb21d",
+        "warning.border": "#ccb21d",
         "players": [],
         "syntax": {
           "attribute": {
