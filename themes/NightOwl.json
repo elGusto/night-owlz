@@ -65,12 +65,12 @@
         "editor.active_wrap_guide": "#5f7e97",
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
-        "terminal.background": null,
+        "terminal.background": "#011627",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
         "terminal.ansi.black": "#011627",
-        "terminal.ansi.bright_black": "#575656",
+        "terminal.ansi.bright_black": "#403f53",
         "terminal.ansi.dim_black": null,
         "terminal.ansi.red": "#EF5350",
         "terminal.ansi.bright_red": "#EF5350",
@@ -121,7 +121,7 @@
         "modified": "#e2b93d",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#969696ff",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": null,
@@ -254,7 +254,7 @@
             "font_weight": null
           },
           "type": {
-            "color": "#c5e478",
+            "color": "#f78c6c",
             "font_style": null,
             "font_weight": null
           },
