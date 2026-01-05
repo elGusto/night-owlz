@@ -3,5 +3,5 @@ version = "0.0.4"
 authors = ["Auguste Bercovici <gusberco@proton.me>"]
 description = "A port to Zed of the famous Night Owl theme for VSCode by Sarah Drasner"
 repository = "https://github.com/elGusto/night-owlz"
-id = "night-owl-theme"
+id = "night-owl"
 schema_version = 1
